@@ -15,7 +15,6 @@ using namespace std;
 #define mH 1.674e-24
 #define M_sun 1.98847e33
 
-
 // pulsar name: J1834-0845
 
 // Spin-down Luminosity
